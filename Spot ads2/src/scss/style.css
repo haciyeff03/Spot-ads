@@ -1,0 +1,442 @@
+#banner1 .umumi {
+  display: flex;
+  flex-direction: row;
+}
+#banner1 .umumi .img {
+  width: 754px;
+  height: 1528px;
+  top: -504px;
+}
+#banner1 .umumi .img .top {
+  position: absolute;
+  width: 220px;
+  height: 54px;
+  top: 30px;
+  left: 70px;
+}
+#banner1 .umumi .img .welcome {
+  position: absolute;
+  width: 292px;
+  height: 77px;
+  top: 210px;
+  left: 70px;
+}
+#banner1 .umumi .img .welcome p {
+  font-family: sans-serif;
+  font-size: 64px;
+  color: white;
+  line-height: 77px;
+  font-weight: 700;
+}
+#banner1 .umumi .img .iki {
+  position: absolute;
+  width: 236px;
+  height: 23px;
+  top: 307px;
+  left: 70px;
+}
+#banner1 .umumi .img .iki h3 {
+  font-family: sans-serif;
+  font-size: 18px;
+  list-style: none;
+  line-height: 21px;
+  font-weight: 500;
+  color: white;
+}
+#banner1 .umumi .img .signup {
+  position: absolute;
+  top: 345px;
+  left: 75px;
+}
+#banner1 .umumi .img .signup button {
+  cursor: pointer;
+  width: 200px;
+  height: 50px;
+  font-size: 18px;
+  line-height: 22px;
+  color: white;
+  font-weight: 500;
+  background-color: transparent;
+  border-radius: 35px;
+  border: 3px solid white;
+}
+#banner1 .umumi .img .xet {
+  position: absolute;
+  left: -976.88px;
+  top: 171.86px;
+  transform: rotate(-38.36deg);
+}
+#banner1 .umumi .img .xet img {
+  border: 1px solid white;
+}
+#banner1 .umumi .img .eller {
+  position: absolute;
+  width: 45px;
+  height: 453px;
+  top: 541px;
+  left: 90px;
+}
+#banner1 .umumi .img .eller img {
+  left: 5%;
+  right: 44%;
+  top: 75%;
+}
+#banner1 .umumi .sag {
+  margin-top: -70px;
+}
+#banner1 .umumi .sag .ust {
+  width: 330px;
+  height: 42px;
+  margin-top: 251px;
+  margin-left: 100px;
+}
+#banner1 .umumi .sag .ust p {
+  font-family: sans-serif;
+  font-size: 36px;
+  line-height: 44px;
+  font-weight: 700;
+}
+#banner1 .umumi .sag .input1,
+#banner1 .umumi .sag .input2 {
+  position: relative;
+  margin-top: 20px;
+  margin-left: 80px;
+}
+#banner1 .umumi .sag .input1 i,
+#banner1 .umumi .sag .input2 i {
+  margin-left: 10px;
+  position: absolute;
+  z-index: 2;
+  left: 2%;
+  right: 0%;
+  top: 45%;
+  bottom: 0%;
+  width: 30px;
+  height: 24px;
+  color: rgb(155, 155, 155);
+}
+#banner1 .umumi .sag .input1 input,
+#banner1 .umumi .sag .input2 input {
+  padding: 20px;
+  position: relative;
+  margin-top: 10px;
+  border-color: transparent;
+  left: 3.67%;
+  right: 16.67%;
+  top: 4.17%;
+  bottom: 8.33%;
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 17px;
+  width: 530px;
+  height: 28px;
+  background-color: rgb(244, 244, 244);
+}
+#banner1 .umumi .sag .forget {
+  width: 150px;
+  height: 17px;
+  margin-top: 30px;
+  margin-left: 560px;
+  cursor: pointer;
+}
+#banner1 .umumi .sag .forget p {
+  font-weight: 500;
+  color: rgb(67, 67, 67);
+  font-size: 17px;
+  line-height: 17px;
+}
+#banner1 .umumi .sag .sumbit {
+  display: flex;
+  margin-top: 34px;
+  align-items: center;
+  justify-content: center;
+}
+#banner1 .umumi .sag .sumbit button {
+  font-size: 18px;
+  line-height: 20px;
+  font-weight: 500;
+  width: 260px;
+  height: 60px;
+  top: 581px;
+  border-radius: 44px;
+  color: white;
+  background-color: rgb(97, 96, 220);
+  border-color: transparent;
+  cursor: pointer;
+}
+#banner1 .umumi .sag .or {
+  margin-left: 345px;
+  width: 17px;
+  height: 17px;
+  margin-top: 20px;
+}
+#banner1 .umumi .sag .or h3 {
+  font-size: 18px;
+  font-weight: 500;
+  line-height: 17px;
+  font-family: sans-serif;
+}
+#banner1 .umumi .sag .iconlar {
+  width: 300px;
+  height: 300px;
+  display: flex;
+  flex-direction: row;
+  margin-left: 300px;
+  margin-top: 40px;
+  gap: 20px;
+}
+#banner1 .umumi .sag .iconlar .google {
+  width: 53px;
+  height: 53px;
+  border-radius: 50%;
+  background-color: #F5F5F5;
+  cursor: pointer;
+}
+#banner1 .umumi .sag .iconlar .google i {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: blue;
+  width: 53px;
+  height: 53px;
+}
+#banner1 .umumi .sag .iconlar .fb {
+  cursor: pointer;
+  width: 53px;
+  height: 53px;
+  border-radius: 50%;
+  background-color: #F5F5F5;
+}
+#banner1 .umumi .sag .iconlar .fb img {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 15px;
+  margin-left: 19px;
+}
+
+#banner2 {
+  width: 100%;
+  height: 1528px;
+  overflow: hidden;
+}
+#banner2 .umumi {
+  display: flex;
+  flex-direction: row;
+}
+#banner2 .umumi .sag {
+  padding: 20px;
+  width: 754px;
+  height: 1528px;
+}
+#banner2 .umumi .sag .logo {
+  width: 224px;
+  height: 54px;
+  margin-left: 76px;
+}
+#banner2 .umumi .sag .logo img {
+  left: 10%;
+  right: 0%;
+  top: 0%;
+  bottom: 0%;
+}
+#banner2 .umumi .sag .orta {
+  width: 340px;
+  height: 44px;
+  margin-top: 80px;
+  margin-left: 76px;
+  top: 8px;
+  left: -32px;
+}
+#banner2 .umumi .sag .orta p {
+  font-family: sans-serif;
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 44px;
+  color: rgb(34, 36, 44);
+}
+#banner2 .umumi .sag .input1,
+#banner2 .umumi .sag .input2 {
+  position: relative;
+  margin-top: 20px;
+  margin-left: 80px;
+}
+#banner2 .umumi .sag .input1 i,
+#banner2 .umumi .sag .input2 i {
+  margin-left: 10px;
+  position: absolute;
+  z-index: 2;
+  left: 2%;
+  right: 0%;
+  top: 45%;
+  bottom: 0%;
+  width: 30px;
+  height: 24px;
+  color: rgb(155, 155, 155);
+}
+#banner2 .umumi .sag .input1 input,
+#banner2 .umumi .sag .input2 input {
+  padding: 20px;
+  position: relative;
+  margin-top: 10px;
+  border-color: transparent;
+  left: 3.67%;
+  right: 16.67%;
+  top: 4.17%;
+  bottom: 8.33%;
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 17px;
+  width: 530px;
+  height: 28px;
+  background-color: rgb(244, 244, 244);
+}
+#banner2 .umumi .sag .forget {
+  width: 150px;
+  height: 17px;
+  margin-top: 30px;
+  margin-left: 560px;
+  cursor: pointer;
+}
+#banner2 .umumi .sag .forget p {
+  font-weight: 500;
+  color: rgb(67, 67, 67);
+  font-size: 17px;
+  line-height: 17px;
+}
+#banner2 .umumi .sag .sumbit {
+  display: flex;
+  margin-top: 34px;
+  align-items: center;
+  justify-content: center;
+}
+#banner2 .umumi .sag .sumbit button {
+  font-size: 18px;
+  line-height: 20px;
+  font-weight: 500;
+  width: 260px;
+  height: 60px;
+  top: 581px;
+  border-radius: 44px;
+  color: white;
+  background-color: rgb(97, 96, 220);
+  border-color: transparent;
+  cursor: pointer;
+}
+#banner2 .umumi .sag .or {
+  margin-left: 345px;
+  width: 17px;
+  height: 17px;
+  margin-top: 20px;
+}
+#banner2 .umumi .sag .or h3 {
+  font-size: 18px;
+  font-weight: 500;
+  line-height: 17px;
+  font-family: sans-serif;
+}
+#banner2 .umumi .sag .iconlar {
+  width: 300px;
+  height: 300px;
+  display: flex;
+  flex-direction: row;
+  margin-left: 300px;
+  margin-top: 40px;
+  gap: 20px;
+}
+#banner2 .umumi .sag .iconlar .google {
+  width: 53px;
+  height: 53px;
+  border-radius: 50%;
+  background-color: #F5F5F5;
+  cursor: pointer;
+}
+#banner2 .umumi .sag .iconlar .google i {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: blue;
+  width: 53px;
+  height: 53px;
+}
+#banner2 .umumi .sag .iconlar .fb {
+  cursor: pointer;
+  width: 53px;
+  height: 53px;
+  border-radius: 50%;
+  background-color: #F5F5F5;
+}
+#banner2 .umumi .sag .iconlar .fb img {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 15px;
+  margin-left: 19px;
+}
+#banner2 .umumi .sol .img {
+  overflow: hidden;
+  top: -400px;
+  position: relative;
+  margin-top: -50px;
+  width: 750px;
+  height: 1528px;
+}
+#banner2 .umumi .sol .img img {
+  width: 750px;
+  height: 1528px;
+}
+#banner2 .umumi .sol .img .welcome {
+  position: absolute;
+  top: 40%;
+  left: 60%;
+}
+#banner2 .umumi .sol .img .welcome p {
+  font-weight: 700;
+  font-size: 48px;
+  line-height: 59px;
+  color: white;
+}
+#banner2 .umumi .sol .img .enter {
+  position: absolute;
+  top: 45%;
+  left: 60%;
+  width: 231px;
+  height: 22px;
+}
+#banner2 .umumi .sol .img .enter h3 {
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 22px;
+  color: white;
+}
+#banner2 .umumi .sol .img .signin {
+  position: absolute;
+  top: 50%;
+  left: 60%;
+}
+#banner2 .umumi .sol .img .signin button {
+  cursor: pointer;
+  width: 200px;
+  height: 50px;
+  font-size: 18px;
+  line-height: 22px;
+  color: white;
+  font-weight: 500;
+  background-color: transparent;
+  border-radius: 35px;
+  border: 3px solid white;
+}
+#banner2 .umumi .sol .img .el {
+  position: absolute;
+  width: 745px;
+  height: 454px;
+  top: 66%;
+  left: -4%;
+}
+#banner2 .umumi .sol .img .el img {
+  width: 745px;
+  height: 454px;
+  left: 5%;
+  right: 44%;
+  top: 75%;
+}/*# sourceMappingURL=style.css.map */

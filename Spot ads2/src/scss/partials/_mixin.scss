@@ -1,0 +1,16 @@
+@mixin Flex($justif:null,$items:null,$direct:null,$wrap:null)
+{
+    display: flex;
+    justify-content: $justif;
+    align-items: $items;
+    flex-direction: $direct;
+    flex-wrap: $wrap;
+}
+
+@mixin images($wid,$height,$top,$left)
+{
+    width: $wid;
+    height: $height;
+    top: $top;
+    left: $left;
+}
